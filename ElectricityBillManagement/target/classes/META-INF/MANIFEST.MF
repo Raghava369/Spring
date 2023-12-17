@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: surya
+Build-Jdk: 17.0.7
+Implementation-Title: ElectricityBillManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Sprint_4
+Implementation-URL: https://spring.io/projects/spring-boot/ElectricityBi
+ llManagement
+Created-By: Maven Integration for Eclipse
+
